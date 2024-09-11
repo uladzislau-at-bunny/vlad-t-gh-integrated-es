@@ -36,3 +36,4 @@ jobs:
         with:
           script_id: 240
           file: "dist/index.ts"
+          base: "https://testfluffle.net/api"
